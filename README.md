@@ -22,3 +22,6 @@ run hand.py
 3. python cyberdog_ctrl.py
 
 4. run hand.py in local environment
+
+# Notice
+1. delete data of "data.txt" before run cyberdog_ctrl.py
